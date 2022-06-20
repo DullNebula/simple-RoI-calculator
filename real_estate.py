@@ -65,7 +65,7 @@ class ROI_calculator():
                 print("Invalid input, please try again.")
         #Are they paying in cash or taking a mortgage
         #Ask for total amount of expenses
-        pass
+        
     def Cash_Flow(self):
         while True:
             self.cash_flow = self.total_income - self.total_expenses
